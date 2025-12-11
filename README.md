@@ -15,7 +15,6 @@ A simple React eSignature application built with CodeSandbox that allows users t
 - **React 18+** - Frontend library
 - **JavaScript ES6+** - Programming language
 - **CSS3** - Styling
-- **CodeSandbox** - Online development environment
 - **Node.js** - Runtime environment
 
 ## 📁 Project Structure
