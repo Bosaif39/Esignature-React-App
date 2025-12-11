@@ -35,33 +35,6 @@ A simple React eSignature application built with CodeSandbox that allows users t
 └── README.md                         # This file
 ```
 
-## 🚦 Getting Started
-
-### Running Locally (if cloned from Sandbox)
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/esignature-app.git
-cd esignature-app
-```
-
-2. **Install dependencies:**
-```bash
-npm install
-```
-
-3. **Start the development server:**
-```bash
-npm start
-```
-
-## 📝 How to Use
-
-1. **Enter your name** in the text input field at the bottom
-2. **Select a date** using the date picker
-3. **Watch your signature update** in real-time at the top
-4. The signature will display with the format: "Your Name" and "Selected Date"
-
 ## 🎯 Components
 
 ### `EsignatureApp` (Main Component)
@@ -75,6 +48,3 @@ npm start
 - Accepts `classes` and `text` as props
 - Provides fallback defaults
 
-```
-
-This README clearly indicates that you used Sandbox for development and provides appropriate links and instructions for both Sandbox and local development.
